@@ -14,3 +14,6 @@
 :white_check_mark: [Nth Highest Salary](https://github.com/valsoares/Leetcode/blob/main/pandas-problems/177.ipynb)\
 :white_check_mark: [Department Highest Salary](https://github.com/valsoares/Leetcode/blob/main/pandas-problems/184.ipynb)
 
+## Statistics
+:white_check_mark: [Count Salary Categories](https://github.com/valsoares/Leetcode/blob/main/pandas-problems/1907.ipynb)
+
